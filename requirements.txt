@@ -1,0 +1,27 @@
+# Core AI and LangChain dependencies
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-tavily
+langgraph
+langgraph-supervisor
+
+# LLM interaction & utility
+openai
+
+# Web and weather API
+requests
+python-dotenv
+
+# Streamlit app framework
+streamlit
+
+# HTML templating and PDF generation
+jinja2
+weasyprint
+
+# Optional: ensure compatibility for font rendering in PDFs (WeasyPrint)
+cffi
+cairocffi
+pycparser
